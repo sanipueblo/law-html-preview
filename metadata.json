@@ -1,8 +1,8 @@
 {
   "meta": {
     "build": {
-      "build-date": "2022-11-08",
-      "ci-build-number": "1.0.54",
+      "build-date": "2022-11-09",
+      "ci-build-number": "1.0.55",
       "ci-project": "sanipueblo/law-xml",
       "codified-date": "2022-06-29",
       "platform": {
@@ -11,11 +11,11 @@
       },
       "repositories": [
         {
-          "commit": "66fc3406f0329b0611746ff3bff6dba905c5ba77",
+          "commit": "9ab52a5a843899b6a58deefcc1359e02df5f8e34",
           "name": "sanipueblo/law-xml"
         },
         {
-          "commit": "519bcfa4334a36a16166ee2e03c40c8845546c2d",
+          "commit": "a57901369da853b30e72160ed92417dd98dc22a0",
           "name": "sanipueblo/law-xml-codified-preview"
         }
       ]
